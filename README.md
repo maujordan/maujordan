@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @maujordan
+- 👀 I’m interested in Data Analytics, ML, AI, Lighting over Artnet among other topics
+- 🌱 I’m currently learning ML, Optimization
+- 💞️ I’m looking to collaborate on ... Anything related to the topics mentioned above
+- 📫 How to reach me ... mau_ja99@hotmail.com
